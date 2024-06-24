@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "4594cfaf65455c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7e8dc19365ea2a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4b92c3d9cf2a8e9c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6673290ce87b8719",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1passo.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "24b70095db9a4988"
+              }
+            ]
+          },
+          {
+            "id": "48098c4764c186e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "769c70b21577cdaa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1passo.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "TESTE",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "24b70095db9a4988"
+              }
+            ]
+          },
+          {
+            "id": "c9d96286a6f3f889",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43e139f8ea195e6c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1passo.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "24b70095db9a4988"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0d63b3f03184e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "31db9edfbaa77e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbae05e3c0c38dfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "754ab93238c69851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6df51c183ea9e41b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "236e49c33e2b7e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "3089b0883e1fcf97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0809300aaaefe17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1passo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae5e23c6c0289d45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1passo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3409e7134338cb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6e1c4511c462812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1passo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "769c70b21577cdaa",
+  "lastOpenFiles": [
+    "FULLLSTACK.md",
+    "1passo.md",
+    "TESTE.md"
+  ]
+}
